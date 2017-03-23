@@ -57,7 +57,7 @@ namespace datenbank
                 MessageBox.Show(ie.Message, "Kommando Fehler!",MessageBoxButtons.OK);
             }
 
-        }
+        } //änderung
 
         private void buttonRead_Click(object sender, EventArgs e)
         {
